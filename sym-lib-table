@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name discipline-pcb-cache)(type Legacy)(uri ${KIPRJMOD}/discipline/discipline-pcb-cache.lib)(options "")(descr ""))
+  (lib (name arisu-cache)(type Legacy)(uri ${KIPRJMOD}/arisu-pcb/arisu-cache.lib)(options "")(descr ""))
 )
